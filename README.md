@@ -1,1 +1,7 @@
-# Hi there, I'm Oliver!
+# Hallo, ich bin [Oliver Hees](https://oliverhees.com/)!
+
+Ich bin ein angehender **Softwareentwickler** aus Deutschland. Es ist schön dich hier zu sehen!
+Als leidenschaftlicher autodidakt habe ich mir PHP selbst beigebracht und bereits mehrere Jahre als
+Freelancer für WordPress Applikationen gearbeitet.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oliverhees)](https://git.io/streak-stats)
