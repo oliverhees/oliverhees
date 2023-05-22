@@ -9,4 +9,8 @@ Freelancer für WordPress Applikationen gearbeitet.
 - 💼 Gerne kannst du hier Kontakt mit mir aufnehmen, [email](mailto:oliverhees@gmail.com) :)
 - 💬 Du hast fragen? Ich helfe immer gerne, schreib mich einfach an.
 
+<img height="20" src="https://github.com/oliverhees/oliverhees.github.io/blob/main/javascript.png">
+<img height="20" src="https://github.com/oliverhees/oliverhees.github.io/blob/main/react.png">
+<img height="20" src="https://github.com/oliverhees/oliverhees.github.io/blob/main/nodejs.png">
+
 <img align="right" alt="GIF" src="https://github.com/oliverhees/oliverhees.github.io/blob/main/code.gif?raw=true" width="500" height="320" />
