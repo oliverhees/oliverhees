@@ -6,4 +6,7 @@ Freelancer für WordPress Applikationen gearbeitet.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oliverhees&locale=de&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+- 💼 Gerne kannst du hier Kontakt mit mir aufnehmen, [email](mailto:oliverhees@gmail.com) :)
+- 💬 Du hast fragen? Ich helfe immer gerne, schreib mich einfach an.
+
 <img align="right" alt="GIF" src="https://github.com/oliverhees/oliverhees.github.io/blob/main/code.gif?raw=true" width="500" height="320" />
