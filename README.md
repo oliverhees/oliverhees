@@ -2,7 +2,8 @@
 
 Ich bin ein angehender **Softwareentwickler** aus Deutschland. Es ist schön dich hier zu sehen!
 Als leidenschaftlicher autodidakt habe ich mir PHP selbst beigebracht und bereits mehrere Jahre als
-Freelancer für WordPress Applikationen gearbeitet.
+Freelancer für WordPress Applikationen gearbeitet. Aktuell Lerne ich Javascript und React um
+meine Expertise weiter auszubauen.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oliverhees&locale=de&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
