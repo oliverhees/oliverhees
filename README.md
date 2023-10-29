@@ -1,6 +1,6 @@
 # Hallo, ich bin [Oliver Hees](https://oliverhees.com/)!
 
-Ich bin ein angehender **Softwareentwickler** aus Deutschland. Es ist schön dich hier zu sehen!
+Ich bin **Fullstack Softwareentwickler** aus Deutschland. Es ist schön dich hier zu sehen!
 Als leidenschaftlicher autodidakt habe ich mir PHP selbst beigebracht und bereits mehrere Jahre als
 Freelancer für WordPress Applikationen gearbeitet. Aktuell Lerne ich Javascript und React um
 meine Expertise weiter auszubauen.
