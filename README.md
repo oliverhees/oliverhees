@@ -2,8 +2,8 @@
 
 Ich bin **Fullstack Softwareentwickler** aus Deutschland. Es ist schön dich hier zu sehen!
 Als leidenschaftlicher autodidakt habe ich mir PHP selbst beigebracht und bereits mehrere Jahre als
-Freelancer für WordPress Applikationen gearbeitet. Aktuell Lerne ich Javascript und React um
-meine Expertise weiter auszubauen.
+Freelancer und Agentur Inhaber für WordPress Applikationen gearbeitet. Jetzt bin ich Fullstack Entwickler für React und Next.js sowie WordPress und 
+habe bereits einige erfolgreiche Projekte Umgesetzt. Aktuell lerne ich die Skills des Prompt und Cloud Engeniers.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oliverhees&locale=de&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
