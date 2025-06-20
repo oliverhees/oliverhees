@@ -5,9 +5,9 @@ Als leidenschaftlicher autodidakt habe ich mir PHP selbst beigebracht und bereit
 Freelancer und Agentur Inhaber für WordPress Applikationen gearbeitet. Jetzt bin ich Fullstack Entwickler für React und Next.js sowie WordPress und 
 habe bereits einige erfolgreiche Projekte Umgesetzt. Aktuell lerne ich die Skills des Prompt und Cloud Engeniers.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oliverhees&locale=de&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oliverhees)](https://git.io/streak-stats)
 
-- 💼 Gerne kannst du hier Kontakt mit mir aufnehmen, [email](mailto:oliverhees@gmail.com) :)
+- 💼 Gerne kannst du hier Kontakt mit mir aufnehmen, [email](mailto:o.hees@hr-codelabs.de) :)
 - 💬 Du hast fragen? Ich helfe immer gerne, schreib mich einfach an.
 
 **Programmiersprachen und Tools:**  
