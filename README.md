@@ -18,7 +18,7 @@ Hamburg 🇩🇪 · [HR Code Labs GbR](mailto:o.hees@hr-codelabs.de)
 
 ## 🚀 Über mich
 
-Seit **20+ Jahren** Softwareentwickler, seit März 2024 selbständig mit **HR Code Labs GbR** in Hamburg (zusammen mit meiner Partnerin auch Software Entwicklerin). Ich baue **KI-Produkte und Consulting-Angebote für den DACH-Markt** — mit einem klaren Fokus auf **DSGVO-konformer, selbst-gehosteter Infrastruktur** auf Hetzner.
+Seit **20+ Jahren** Softwareentwickler, seit März 2024 weitere Firmen Gründung mit **HR Code Labs GbR** in Hamburg (zusammen mit meiner Partnerin auch Software Entwicklerin). Ich baue **KI-Produkte und Consulting-Angebote für den DACH-Markt** — mit einem klaren Fokus auf **DSGVO-konformer, selbst-gehosteter Infrastruktur** auf Hetzner.
 
 Ich teile offen was ich baue, was funktioniert und was nicht — auf YouTube, in meiner Skool-Community und hier auf GitHub. **Build in Public** ist keine Marketing-Masche, sondern wie ich arbeite.
 
