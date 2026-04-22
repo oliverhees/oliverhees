@@ -8,6 +8,7 @@
 Hamburg 🇩🇪 · [HR Code Labs GbR](mailto:o.hees@hr-codelabs.de)
 
 [![Aiianer](https://img.shields.io/badge/Aiianer-E53E3E?style=for-the-badge&logoColor=white)](https://aiianer.de)
+[![AI Automation Engineers](https://img.shields.io/badge/AI_Automation_Engineers-0A0A0A?style=for-the-badge&logoColor=white)](https://ai-automation-engineers.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aiianer)
 [![Skool Community](https://img.shields.io/badge/Skool-0A0A0A?style=for-the-badge&logoColor=white)](https://skool.com/aiianer)
 [![Email](https://img.shields.io/badge/Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.hees@hr-codelabs.de)
@@ -18,7 +19,7 @@ Hamburg 🇩🇪 · [HR Code Labs GbR](mailto:o.hees@hr-codelabs.de)
 
 ## 🚀 Über mich
 
-Seit **20+ Jahren** Softwareentwickler, seit März 2024 weitere Firmen Gründung mit **HR Code Labs GbR** in Hamburg (zusammen mit meiner Partnerin auch Software Entwicklerin). Ich baue **KI-Produkte und Consulting-Angebote für den DACH-Markt** — mit einem klaren Fokus auf **DSGVO-konformer, selbst-gehosteter Infrastruktur** auf Hetzner.
+Seit **20+ Jahren** Softwareentwickler, seit März 2024 weitere Firmengründung mit **HR Code Labs GbR** in Hamburg (zusammen mit meiner Partnerin, ebenfalls Softwareentwicklerin). Ich baue **KI-Produkte, Automation-Lösungen und Consulting-Angebote für den DACH-Markt** — mit einem klaren Fokus auf **DSGVO-konformer, selbst-gehosteter Infrastruktur** auf Hetzner.
 
 Ich teile offen was ich baue, was funktioniert und was nicht — auf YouTube, in meiner Skool-Community und hier auf GitHub. **Build in Public** ist keine Marketing-Masche, sondern wie ich arbeite.
 
@@ -27,18 +28,21 @@ Ich teile offen was ich baue, was funktioniert und was nicht — auf YouTube, in
 | Projekt | Was | Status |
 |---|---|---|
 | **[Aiianer](https://aiianer.de)** | KI-Consulting & Explorer-Brand. YouTube, Skool, Content. *„Wie ein Marsianer auf dem Mars lebt, lebt ein Aiianer auf dem KI-Planeten."* | 🔥 Aktiv |
-| **SYNKEA** | Modulare Multi-Tenant AI Operations Platform für §203-regulierte Berufe. *Connect to everything.* | 🛠️ In Development |
+| **[AI Automation Engineers](https://ai-automation-engineers.com)** | Unsere Agentur für maßgeschneiderte KI- und Automation-Lösungen — vom Discovery bis zum Deployment auf eigener Infrastruktur. | 🔥 Aktiv |
+| **SYNKEA** | Modulare Multi-Tenant AI Operations Platform für **jede Branche**. *Connect to everything.* Erstes integriertes Modul: unsere Telefon-KI, open-source gekoppelt. | 🛠️ In Development |
+| **Telefon-KI** | Self-hosted Voice AI für in- und outbound Calls. Open Source, DSGVO-konform — wird als erstes Modul in SYNKEA integriert. | 📞 In Development |
 | **BIAICO** | Git-natives Client-Portal. Ein Repo pro Kunde, Markdown/JSON, Next.js + MCP. | 🚀 Live beim ersten Kunden |
-| **PAI** | Mein persönlicher AI-Assistent auf Hetzner. OpenClaw · Paperclip · Cognee · Hermes. | ⚙️ Eigenbedarf |
+| **PAI** | Meine persönliche KI-Infrastruktur mit Second-Brain-Anbindung — quasi mein eigenes KI-Betriebssystem. Stack: OpenClaw · Paperclip · Cognee · Hermes. | ⚙️ Eigenbedarf |
 
 ## 🛠️ Mein Stack
 
 **KI & Automation**  
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0A0A0A?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Cognee](https://img.shields.io/badge/Cognee-6366F1?style=flat-square)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-E53E3E?style=flat-square&logo=googleassistant&logoColor=white)
 
 **Web & App Development**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -71,10 +75,11 @@ Ich helfe Agenturen, Unternehmern und Makern mit:
 - **KI-Strategie & Consulting** — Wo bringt KI in deinem Business wirklich Geld, wo ist es Spielerei?
 - **Self-Hosted AI Infrastruktur** — DSGVO-konform, auf deiner Infrastruktur, ohne US-Cloud-Dependencies
 - **Automation Engineering** — n8n, MCP, Claude Code, agent-basierte Workflows
+- **Voice AI & Telefon-Automation** — Inbound & outbound Calls mit self-hosted Voice AI
 - **Custom AI Products** — Vom Konzept bis zum Deployment, inklusive Hosting
 
 📧 **[o.hees@hr-codelabs.de](mailto:o.hees@hr-codelabs.de)**  
-🌐 **[aiianer.de](https://aiianer.de)**  
+🌐 **[aiianer.de](https://aiianer.de)** · **[ai-automation-engineers.com](https://ai-automation-engineers.com)**  
 🎥 **Neue Videos jeden Dienstag und Freitag**
 
 ---
