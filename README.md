@@ -5,10 +5,10 @@
 ### KI VERSTEHEN. KI ANWENDEN. MIT KI WACHSEN.
 
 **KI-Consultant · Fullstack Developer · KI-Enginner · Influencer**  
-Hamburg 🇩🇪 · [HR Code Labs GbR](mailto:o.hees@hr-codelabs.de)
+Hamburg 🇩🇪 · [HR-CodeLabs GbR](mailto:o.hees@hr-codelabs.de)
 
 [![Aiianer](https://img.shields.io/badge/Aiianer-E53E3E?style=for-the-badge&logoColor=white)](https://aiianer.de)
-[![AI Automation Engineers](https://img.shields.io/badge/AI_Automation_Engineers-0A0A0A?style=for-the-badge&logoColor=white)](https://ai-automation-engineers.com)
+[![Lokyy Agentur](https://img.shields.io/badge/Lokky-0A0A0A?style=for-the-badge&logoColor=white)](https://lokyy.de)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aiianer)
 [![Skool Community](https://img.shields.io/badge/Skool-0A0A0A?style=for-the-badge&logoColor=white)](https://skool.com/aiianer)
 [![Email](https://img.shields.io/badge/Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.hees@hr-codelabs.de)
@@ -28,10 +28,10 @@ Ich teile offen was ich baue, was funktioniert und was nicht — auf YouTube, in
 | Projekt | Was | Status |
 |---|---|---|
 | **[Aiianer](https://aiianer.de)** | KI-Consulting & Explorer-Brand. YouTube, Skool, Content. *„Wie ein Marsianer auf dem Mars lebt, lebt ein Aiianer auf dem KI-Planeten."* | 🔥 Aktiv |
-| **[AI Automation Engineers](https://ai-automation-engineers.com)** | Unsere Agentur für maßgeschneiderte KI- und Automation-Lösungen — vom Discovery bis zum Deployment auf eigener Infrastruktur. | 🔥 Aktiv |
-| **SYNKEA** | Modulare Multi-Tenant AI Operations Platform für **jede Branche**. Erstes Modul — unsere Voice AI für in- und outbound Calls — bereits live im Kundeneinsatz. *Connect to everything.* | 🔥 Live & Ausbau |
-| **BIAICO** | Git-natives Client-Portal. Ein Repo pro Kunde, Markdown/JSON, Next.js + MCP. | 🚀 Live beim ersten Kunden |
-| **PAI** | Meine persönliche KI-Infrastruktur mit Second-Brain-Anbindung — quasi mein eigenes KI-Betriebssystem. Stack: OpenClaw · Paperclip · Cognee · Hermes. | ⚙️ Eigenbedarf |
+| **[Lokyy](https://lokyy.de)** | Unsere Agentur für maßgeschneiderte KI- und Automation-Lösungen — vom Discovery bis zum Deployment auf eigener Infrastruktur. | 🔥 Aktiv |
+| **Lokyy SYNC** | Modulare Multi-Tenant AI Operations Platform für **jede Branche**. Erstes Modul — unsere Voice AI für in- und outbound Calls — bereits live im Kundeneinsatz. *Connect to everything.* | 🔥 Live & Ausbau |
+| **Lokyy BIAICO** | Git-natives Client-Portal. Ein Repo pro Kunde, Markdown/JSON, Next.js + MCP. | 🚀 Live beim ersten Kunden |
+| **Lokyy OS** | Meine persönliche KI-Infrastruktur mit Second-Brain-Anbindung — quasi mein eigenes KI-Betriebssystem. Stack: Hermes · Paperclip · Cognee . | ⚙️ Eigenbedarf |
 
 ## 🛠️ Mein Stack
 
