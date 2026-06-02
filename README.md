@@ -4,7 +4,7 @@
 
 ### KI VERSTEHEN. KI ANWENDEN. MIT KI WACHSEN.
 
-**KI-Consultant · Fullstack Developer · Builder in Public**  
+**KI-Consultant · Fullstack Developer · KI-Enginner · Influencer**  
 Hamburg 🇩🇪 · [HR Code Labs GbR](mailto:o.hees@hr-codelabs.de)
 
 [![Aiianer](https://img.shields.io/badge/Aiianer-E53E3E?style=for-the-badge&logoColor=white)](https://aiianer.de)
